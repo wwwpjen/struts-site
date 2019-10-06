@@ -1,1 +1,1 @@
-Struts site
+Struts image documentation
